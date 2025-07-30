@@ -1,0 +1,5 @@
+[project]
+name = "sample-agentic-ai-demos"
+version = "0.1.0"
+description = "Collection of examples of how to use Model Context Protocol with AWS."
+requires-python = ">=3.10"
